@@ -29,6 +29,10 @@ Users should be able to:
 
 - I'm not too familiar with CSS Grid and therefore did not implement it in the final solution. 
 
+- I used a filter to get the purple overlay over the image, but it looks a little different from the design.
+
+- Also for the desktop version of the design(600px and more), the image is responsive to the browser size, but the text field remains the same. 
+
 ### Built with
 
 - Semantic HTML5 markup
